@@ -5,7 +5,7 @@ The purpose of this repository is the development of a web-app, that can be utli
 
 ### Web Scrapping 
 
-  #### What is Web Scrapping?
+#### What is Web Scrapping?
         Web scraping is the process of automatically extracting information from websites. It involves writing code to visit web pages,           parse the HTML or XML structure of those pages, and extract relevant data for further analysis or use.
         Here's a step-by-step explanation of how web scraping typically works:
 
@@ -23,6 +23,6 @@ The purpose of this repository is the development of a web-app, that can be utli
 
         7 .Store or process the extracted data: Depending on your requirements, you can store the extracted data in a file, a database,              or process it further for analysis, visualization, or integration with other systems.
 
-  #### Web Scrapping examples: 
-        Refer to the following example to scrape your first website using Javascript and Puppeteer [freeCodeCamp -Web Scrapping]       (https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/amp/).
+#### Web Scrapping examples:         
+Refer to the following example to scrape your first website using Javascript and Puppeteer [freeCodeCamp -Web Scrapping](https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/amp/).
         
